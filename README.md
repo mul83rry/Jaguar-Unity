@@ -1,4 +1,4 @@
 # Jaguar
 Preparing
 
-[sERVER](https://github.com/mul83rry/Jaguar)
+[Server](https://github.com/mul83rry/Jaguar)
